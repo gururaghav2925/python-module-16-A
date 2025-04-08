@@ -1,4 +1,4 @@
-# Python Program: Construct an AVL Tree and Display Its Nodes
+# Construct an AVL Tree and Display Its Nodes
 
 ## Aim
 To construct an AVL (Adelson-Velsky and Landis) tree using the given elements
